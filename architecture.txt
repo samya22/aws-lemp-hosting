@@ -1,0 +1,9 @@
+Client Browser
+       ↓
+AWS EC2 Instance
+       ↓
+Apache Web Server
+       ↓
+PHP Application
+       ↓
+MySQL Database
